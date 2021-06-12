@@ -37,6 +37,13 @@
         "xstddef": "cpp",
         "xstring": "cpp",
         "xtr1common": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "chrono": "cpp",
+        "ctime": "cpp",
+        "iomanip": "cpp",
+        "ratio": "cpp",
+        "xlocmon": "cpp",
+        "xloctime": "cpp",
+        "string": "cpp"
     }
 }
